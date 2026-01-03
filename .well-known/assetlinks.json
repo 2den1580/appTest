@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.toriteling.test",
+      "sha256_cert_fingerprints": [
+        "36:30:2A:2B:E0:5E:49:19:C4:98:9A:C6:72:65:0E:46:8F:7D:63:B5:1E:AC:1C:03:01:38:49:89:B5:1A:E8:E7"
+      ]
+    }
+  }
+]
